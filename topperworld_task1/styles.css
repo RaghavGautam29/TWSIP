@@ -1,0 +1,84 @@
+#title{
+    background-color: #61677A;
+}
+
+.navbar-brand{
+    font-size:5rem;
+    line-height: 4rem;
+    padding-left: 2rem;
+}
+
+.nav-item{
+    padding:2rem;
+    font-size:1rem;
+}
+
+.btn{
+    border-radius: 12px;
+    background-color: #D8D9DA;
+    size: 4rem;
+    width: 220px;
+}
+.btn:hover{
+    background-color:#61677A ;
+}
+
+.container-fluid{
+    padding-left: 4%;
+}
+.a1{
+    padding:3% 5% 0% 3%;
+    padding-bottom: 70px;
+}
+
+h1{
+    color:#272829;
+    font-size: 4rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+#features{
+    background-color: #D8D9DA;
+    padding:7% 15%;
+    
+}
+h4{
+    font-weight: bold;
+    font-size:4rem;
+}
+.roww{
+    padding-top: 4rem;
+    display: flex;
+}
+.column{
+    flex: 33.33;
+    padding:5px;
+}
+.srt{
+    text-align: center;
+    padding: 40px;
+}
+.service{
+    background-color: #D8D9DA;
+    padding-left:4rem ;
+    padding-top:3rem;
+}
+.rowo{
+    display:flex;
+}
+.card{
+    margin: 3rem;
+}
+#team{
+    text-align: center;
+}
+.lower{
+    text-align: center;
+    padding:8% 15%;
+    margin: 13px;
+}
+.talk{
+    text-align: center;
+    padding: 4% 9%;
+}
